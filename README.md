@@ -1,4 +1,3 @@
-#git guide
+#git tutorial
 
 - fix-B
-- new branch
